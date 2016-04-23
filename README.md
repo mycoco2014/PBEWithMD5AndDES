@@ -27,14 +27,12 @@ $ ./decrypt input=<your input string> password=<your password string>
 C Example Test
 --------------
 
-##### Suppose that your jasypt is extracted into ${JASYPT_PATH}
-
-Lua lib
+#### Lua lib
 
 libPBEWithMD5AndDES.so
 
 Lua Example Test
-#####  luajit filename.lua
+luajit filename.lua
 
 License
 ----
